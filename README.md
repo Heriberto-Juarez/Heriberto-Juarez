@@ -8,7 +8,10 @@ My name is Heriberto, Im 25 years old, and I am passinate about building technol
 😄 Pronouns: He/Him
 ⚡ Fun fact: I started learning to code way before I even got to college, so it has been a been a long journy.
 
+
 I have experience/can work with:
+
+
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
