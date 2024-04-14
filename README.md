@@ -4,12 +4,12 @@ My name is Heriberto, Im 25 years old, and I am passionate about building techno
 
 🔭 I’m currently working on FullStack MERN apps.
 
-🌱 I’m currently learning Flutter, In fact at the moment of updating this description I am about to complete a Flutter Course on Udemy but I will continue learning.
+🌱 I’m currently learning Flutter. In fact at the moment of updating this description I am about to complete a Flutter Course on Udemy but I will continue learning.
 
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I started learning to code way before I even got to college, so it has been a been a long journy.
+⚡ Fun fact: I started learning to code way before I even got to college, so it has been a been a long journey.
 
 
 
