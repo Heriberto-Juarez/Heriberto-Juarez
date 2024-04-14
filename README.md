@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Heriberto, Im 25 years old, and I am passinate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
+My name is Heriberto, Im 25 years old, and I am passionate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
 
 🔭 I’m currently working on FullStack MERN apps.
 🌱 I’m currently learning Flutter, In fact at the moment of updating this description I am about to complete a Flutter Course on Udemy but I will continue learning.
