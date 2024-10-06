@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Heriberto, Im 25 years old, and I am passionate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
+My name is Heriberto, Im 25 years old (just a few days away from 26), and I am passionate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
 
 🔭 I’m currently working on FullStack MERN apps.
 
-🌱 I currently completed a Flutter Course and I continue to learn it!
+🌱 I'm currently deepening my knowledge of AI and exploring its applications in my field.
 
 
 😄 Pronouns: He/Him
@@ -93,4 +93,6 @@ I have experience/can work with:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+![Cypress Image](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+
 
