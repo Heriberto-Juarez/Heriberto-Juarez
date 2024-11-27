@@ -1,21 +1,21 @@
 ### Hi there 👋
 
-My name is Heriberto, Im 25 years old (just a few days away from 26), and I am passionate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
+My name is Heriberto, Im 26 years old, and I am passionate about building technology and I always try to learn as much as possible because I think there is always something to improve and new knowledge gives us the capacity to accomplish that.
 
 🔭 I’m currently working on FullStack MERN apps.
 
-🌱 I'm currently deepening my knowledge of AI and exploring its applications in my field.
+🌱 I'm currently deepening my knowledge of AI and exploring its applications in my field as well as other frameworks such as Nest and Next.js 15.
 
 
 😄 Pronouns: He/Him
 
-⚡ Fun fact: I started learning to code way before I even got to college, so it has been a been a long journey.
+⚡ Fun fact: I was messing with computers since I was a child.
 
 
 
 I have experience/can work with:
 
-
+![d3.js](https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3dotjs&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
