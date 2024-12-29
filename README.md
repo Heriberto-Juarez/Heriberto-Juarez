@@ -4,7 +4,7 @@ My name is Heriberto, Im 26 years old, and I am passionate about building techno
 
 🔭 I’m currently working on FullStack MERN apps.
 
-🌱 I'm currently deepening my knowledge of AI and exploring its applications in my field as well as other frameworks such as Nest and Next.js 15.
+🌱 Im Currently learning Microservices with Java
 
 
 😄 Pronouns: He/Him
