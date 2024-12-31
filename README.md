@@ -4,7 +4,7 @@ My name is Heriberto, Im 26 years old, and I am passionate about building techno
 
 🔭 I’m currently working on FullStack MERN apps.
 
-🌱 Im Currently learning Microservices with Java
+🌱 Im Currently learning Microservices with Java (Spring Boot)
 
 
 😄 Pronouns: He/Him
